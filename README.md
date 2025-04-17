@@ -20,8 +20,8 @@ What I’m focusing on:
 
 | Week | Focus | Status |
 |------|-------|--------|
-| Week 1 | ✅ Go basics, CI/CD, CLI tools, ML intro, Spring Boot setup | ✅ Completed |
-| Week 2 | TBD | 🚧 Coming Soon |
+| Week 1 | Go basics, CI/CD, CLI tool, ML intro, Spring Boot setup | 🚧 In Progress |
+| Week 2 | TBD | 🔒 Not Started |
 | Week 3 |  |  |
 | ...    |  |  |
 
