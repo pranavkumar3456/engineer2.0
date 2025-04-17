@@ -16,12 +16,12 @@ What I’m focusing on:
 
 ---
 
-## 🗓️ Week-by-Week Journey
+## 📅 Week-by-Week Progress
 
 | Week | Focus | Status |
 |------|-------|--------|
-| Week 1 | Go basics, CI/CD, CLI tool, MLOps intro | ✅ Completed |
-| Week 2 | [Coming Soon] | 🚧 |
+| Week 1 | ✅ Go basics, CI/CD, CLI tools, ML intro, Spring Boot setup | ✅ Completed |
+| Week 2 | TBD | 🚧 Coming Soon |
 | Week 3 |  |  |
 | ...    |  |  |
 
